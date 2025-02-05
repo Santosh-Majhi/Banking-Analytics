@@ -1,5 +1,5 @@
 # Banking Analytics Using SQL and Power BI
-![Dashboard](https://github.com/Santosh-Majhi/Banking-Analytics/blob/main/Bank%20Loan%20Summry%20Report.png)
+!(https://github.com/Santosh-Majhi/Banking-Analytics/blob/main/Bank%20Loan%20Summry%20Report.png)
 
 # Overview:
 
